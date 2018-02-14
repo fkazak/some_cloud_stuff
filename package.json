@@ -1,0 +1,23 @@
+{
+  "name": "some_cloud_stuff",
+  "version": "1.0.0",
+  "description": "Metal capitalizer master of the letters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fkazak/some_cloud_stuff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fkazak/some_cloud_stuff/issues"
+  },
+  "homepage": "https://github.com/fkazak/some_cloud_stuff#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
