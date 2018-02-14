@@ -22,3 +22,7 @@ app.post('/api/capitalise', function(req, res) {
 		console.log('Server listening on port: ' + port);
 	    });
     }
+
+module.exports = {
+    convertToCaps: convertToCaps
+}
